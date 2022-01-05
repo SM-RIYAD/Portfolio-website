@@ -5,7 +5,7 @@ body{
 
 
     font-family: 'Poppins', sans-serif;
-     font-size: 20px; 
+     font-size: 10px; 
 }
 .name-highlight{
 
@@ -16,7 +16,7 @@ color: yellowgreen;
 
 width: 40%;
 float: left;
-/* /* margin: 3%; */
+ margin: 3%; 
 padding: 2%; 
 
 
@@ -24,8 +24,8 @@ padding: 2%;
 .half-width img{
 
     width: 80%;
-    /* margin-top: 10%;
-    margin-bottom: 5%; */
+    margin-top: 10%;
+    margin-bottom: 5%;
 }
 .top-banner{
 
@@ -49,9 +49,9 @@ border-radius: 5px;
 font-weight: 700;
 }
 .dream-area{
-    /* background-image: url("images/dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
-    border: 10px yellowgreen; */
+    border: 10px yellowgreen;
 
 }
