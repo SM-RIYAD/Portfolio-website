@@ -16,16 +16,16 @@ color: yellowgreen;
 
 width: 40%;
 float: left;
-margin: 3%;
-padding: 2%;
+/* /* margin: 3%; */
+padding: 2%; 
 
 
 }
 .half-width img{
 
     width: 80%;
-    margin-top: 10%;
-    margin-bottom: 5%;
+    /* margin-top: 10%;
+    margin-bottom: 5%; */
 }
 .top-banner{
 
