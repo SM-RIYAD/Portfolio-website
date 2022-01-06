@@ -57,7 +57,7 @@ font-weight: 700;
 }
 .single-experience{
 box-shadow: 10px 10px 40px gray;
-height: 50%;
+height: 63%;
 border-radius:5 px;
 background-color: white;
 }
@@ -82,4 +82,8 @@ border-image: linear-gradient(180deg ,blue,cyan);
 footer{
 
     text-align: center;
+}
+#experience{
+
+    padding-left: 5px;
 }
